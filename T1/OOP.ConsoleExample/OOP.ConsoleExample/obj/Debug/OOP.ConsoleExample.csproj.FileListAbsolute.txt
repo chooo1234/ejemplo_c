@@ -1,0 +1,11 @@
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\OOP.ConsoleExample.exe.config
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\OOP.ConsoleExample.exe
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\OOP.ConsoleExample.pdb
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.exe
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.pdb
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\AudioManager.dll
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\AudioManager.pdb
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.CopyComplete

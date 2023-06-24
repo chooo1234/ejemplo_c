@@ -1,0 +1,6 @@
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.AssemblyReference.cache
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\Julian\Documents\GitHub\DN_Joel_Julian\01_OOP\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.pdb
